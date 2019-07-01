@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sewin&#39; Ain&#39;t Easy</title>
+    <link>/</link>
+    <description>Recent content on Sewin&#39; Ain&#39;t Easy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About to Sew</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Got a great deal on a used sewing maching at the thrift shop. Gonna put that thing to work and start sewing all kinds of stuff. I&amp;rsquo;m gonna sew:
+ Clothes for me Clothes for my kids Clothes for my girlfriend ;-) Stuffed animals Ultralight hiking gear  I&amp;rsquo;ll probably start sewing anything I can get my hands on.
+Protect ya fabrics
+Sew4Life
+Sewin4eeva</description>
+    </item>
+    
+    <item>
+      <title>Let the Fun Begin</title>
+      <link>/post/let-the-fun-begin/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/let-the-fun-begin/</guid>
+      <description>Coming soon.</description>
+    </item>
+    
+  </channel>
+</rss>
